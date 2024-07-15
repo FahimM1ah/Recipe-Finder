@@ -27,7 +27,7 @@ GruppeSec Recipe Finder is a Windows Forms application that helps you find recip
 3. **View recipes**:
    - The results will be displayed in a message box, showing the recipe names and URLs.
 
+Application appearance:
+![Recipe Finder Screenshot](https://github.com/user-attachments/assets/96718355-9fe6-4824-981a-f76a2aded955)
+
 The application uses my Edamam API key, so you can run it as-is after compiling. The code handles the interaction with the API and displays the results directly within the application.
-
-[image](https://github.com/user-attachments/assets/96718355-9fe6-4824-981a-f76a2aded955)
-
